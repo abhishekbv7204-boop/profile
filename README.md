@@ -12,7 +12,7 @@
 <h2>SKILLS</h2>
 <ul>
 <li>C++</li>
-<li>HTML,CSS</li>
+<li>HTML,CSS,basic javascript</li>
 <li>Basic Python</li>
 </ul>
 <h2>CONTACT</h2>
