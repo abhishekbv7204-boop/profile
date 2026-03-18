@@ -1,1 +1,22 @@
 # profile
+<!DOCTYPE html>
+<html>
+<head> 
+<title>My Portfolio</title>
+</head>
+
+<body>
+<h1>NAME:B V ABHISHEK</h1>
+<h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">ABOUT ME</h2>
+<p>I am currently pursuing my degree in Computer Science and Engineering at BITM Ballari.</p>
+<h2>SKILLS</h2>
+<ul>
+<li>C++</li>
+<li>HTML,CSS</li>
+<li>Basic Python</li>
+</ul>
+<h2>CONTACT</h2>
+<p style="color:blue;">Email:abhishekbv7204@gmail.com</p>
+
+</body>
+</html>
